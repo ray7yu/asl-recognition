@@ -1,4 +1,5 @@
 # Final Project
+[Link to Presentation](https://docs.google.com/presentation/d/1_lltH0wbUKH7QiGZmgpueGZR7_E8iFzWQRATZxzNItU/edit#slide=id.p)</br>
 Two models are included in the final project. Model 1 should be used for the easy test and model 2 should be used for the hard test. ```vgg_16_transfer_learning_model_1.ipynb``` contains model 1 training. ```vgg_16_transfer_learning_model_2.ipynb``` contains model 2 training. 
 
 
